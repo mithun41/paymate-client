@@ -1,7 +1,7 @@
 import React from "react";
 
 const Home = () => {
-  return (
+  return <div>
     <div>
       <p>this is home component</p>
       <p>Sheauly</p>
@@ -9,7 +9,9 @@ const Home = () => {
       <p>this is home component</p>
       <p>Sheauly</p>
     </div>
-  );
+
+  </div>;
+
 };
 
 export default Home;
