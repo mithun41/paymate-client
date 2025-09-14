@@ -15,6 +15,16 @@ const Home = () => {
         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit illo incidunt eligendi recusandae autem, voluptatum magnam necessitatibus distinctio itaque sunt? </p>
         <p>added header</p>
       </div>
+      {/* <div>
+      <p>this is home component</p>
+      <p>Sheauly</p>
+      <h2>heelo</h2>
+      <p>this is home component</p>
+      <p>Sheauly</p>
+      <p>Monir </p>
+    </div>
+  );
+    </div> */}
       <Banner></Banner>
     </div>
   );
