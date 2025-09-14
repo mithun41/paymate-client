@@ -13,8 +13,7 @@ const Home = () => {
         <p>Monir </p>
         <p>Hello Developers</p>
         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit illo incidunt eligendi recusandae autem, voluptatum magnam necessitatibus distinctio itaque sunt? </p>
-        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit illo incidunt eligendi recusandae autem, voluptatum magnam necessitatibus distinctio itaque sunt? </p>
-        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit illo incidunt eligendi recusandae autem, voluptatum magnam necessitatibus distinctio itaque sunt? </p>
+        <p>added header</p>
       </div>
       <Banner></Banner>
     </div>
