@@ -11,6 +11,7 @@ const Home = () => {
         <p>this is home component</p>
         <p>Sheauly</p>
         <p>Monir </p>
+        <p>Hello Developers</p>
         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit illo incidunt eligendi recusandae autem, voluptatum magnam necessitatibus distinctio itaque sunt? </p>
       </div>
       <Banner></Banner>
